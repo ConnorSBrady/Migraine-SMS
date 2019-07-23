@@ -1,0 +1,10 @@
+praw
+twilio
+flask
+gunicorn
+psycopg2
+gspread
+oauth2client
+flask_sqlalchemy
+darkskylib
+pytz
